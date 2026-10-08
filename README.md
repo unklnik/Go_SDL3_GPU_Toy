@@ -9,12 +9,12 @@ A small, unfinished GUI for working with SDL3 GPU in 3D and 2D using https://git
 - Load 2D textures & create animations
 
 **Keys**
-F1 key > Settings 
-F2 key > Show/Hide UI 
-F10 key > Debug overlay 
-F11 key > Color Palette 
-F12 key > Color Palette with Alpha  
-ESC key > Exit 
+F1 key > Settings<br>
+F2 key > Show/Hide UI<br>
+F10 key > Debug overlay<br>
+F11 key > Color Palette<br>
+F12 key > Color Palette with Alpha<br>
+ESC key > Exit<br>
 
 *AI Disclosure: Setting up SDL GPU to run with Go is not that easy and I didn't write that code at all, that was made using Google AI Studio and took a while with a lot of errors along the way. However, the engine itself was mainly coded by myself.*
 
