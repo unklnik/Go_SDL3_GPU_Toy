@@ -8,7 +8,7 @@ A small, unfinished GUI for working with SDL3 GPU in 3D and 2D using https://git
 - Draw 3D primitives (cubes/spheres/cones)
 - Load 2D textures & create animations
 
-**Keys**<br>
+**Keys:** <br>
 F1 key > Settings<br>
 F2 key > Show/Hide UI<br>
 F10 key > Debug overlay<br>
